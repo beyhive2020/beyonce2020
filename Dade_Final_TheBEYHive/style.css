@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.left {
+background-color: #F4F2EE;
+color: #FFFFFF;
+width: 45%;
+float: left;
+padding-left: 30px;
+}
+ 
+.right {
+background-color: #F4F2EE;
+color: #ffffff;
+width: 45%;
+float: left;
+padding-left: 30px;
+margin-left: 30px;
+}
+ 
+.images {
+background-image: url("box.jpg");
+width: 100px;
+height: 100px;
+background-color: #F4F2EE;
+float: left;
+margin-left: 100px;
+margin-right: 100px;
+}
+ 
+.bottomtext {
+float: left;
+}
+.caption {
+width: 100px;
+float: left;
+background-color: tan;
+color: pink;
+margin-left: 100px;
+margin-right: 100px;
+}
